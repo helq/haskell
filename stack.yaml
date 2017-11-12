@@ -3,12 +3,14 @@ resolver: lts-8.13
 packages:
 - tensorflow
 - tensorflow-core-ops
+- tensorflow-deptyped
 - tensorflow-logging
 - tensorflow-opgen
 - tensorflow-ops
 - tensorflow-proto
 - tensorflow-mnist
 - tensorflow-mnist-input-data
+- tensorflow-mnist-deptyped
 - tensorflow-records
 - tensorflow-records-conduit
 - tensorflow-test
